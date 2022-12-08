@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">project5</string>
+
+    <string name = "zeroSelected">No toppings selected to remove</string>
+    <string name = "zeroToppingsForPizza">Need at least one topping on pizza</string>
+    <string name = "zeroToppingsSelected">No toppings selected to add</string>
+    <string name = "noMoreToppings">Can not select more than 7 toppings</string>
+    <string name = "addPizzaToOrder">The Pizza is added to the order</string>
+
+    <string name = "orderTitle">Order</string>
+    <string name = "removeFromOrder">Remove From Order</string>
+    <string name = "submitOrderButton">Submit Order</string>
+    <string name = "taxTotal">Tax:</string>
+    <string name = "totalLabel">Total:</string>
+    <string name = "totalAmount">Total:</string>
+    <string name = "subtotal">Subtotal:</string>
+    <string name = "total">Subtotal:</string>
+    <string name = "tax">Tax:</string>
+    <string name = "zeroDollar">$0.00</string>
+
+    <string name = "removeEmptyOrder">Cannot remove from an empty order!</string>
+    <string name = "removeFromNoSelection">Please select an item to remove!</string>
+    <string name = "removeItemMessage">Item successfully removed from order!</string>
+
+    <string name = "submitOrderMessage">Order submitted!</string>
+    <string name = "submitError">Cannot Submit Order!</string>
+    <string name = "RemoveError">Error with Removing Item!</string>
+    <string name = "OKButton">OK</string>
+    <string name = "clearItems">Cleared All Orders!</string>
+    <string name = "submitEmptyOrder">Cannot submit an empty order!</string>
+
+    <string name = "storeOrderTitle">Store Orders</string>
+    <string name = "cancelOrderButton">Cancel Order</string>
+    <string name = "cancelEmptyStoreOrders">Cannot cancel when no orders have been submitted!</string>
+    <string name = "cancelNoSelection">Please select an order to cancel!</string>
+    <string name = "cancelAllOrderMessage">All orders successfully canceled!</string>
+    <string name = "cancelOrderMessage">Order successfully canceled!</string>
+    <string name = "cancelError">Error with Canceling Order!</string>
+</resources>
